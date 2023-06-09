@@ -1,0 +1,3 @@
+pixels are raw building blocks of an image:
+grayscale bnw 0-255
+coloured bgr
